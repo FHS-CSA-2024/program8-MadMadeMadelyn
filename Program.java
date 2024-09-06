@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class Program8 {
     public static void main(String[]args){
-        int num1 = 13;
-        int num2 = 20;
+        int num1 = 0;
+        int num2 = 0;
         
         Scanner numOneScanner = new Scanner(System.in);
         System.out.println("Enter number 1: ");
